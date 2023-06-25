@@ -1,0 +1,23 @@
+.wrapper{
+    width: 200px;
+    height: 200px;
+    padding: 0%;
+ 
+}
+div.square{
+    width: 500px;
+    height: 100px;
+    position: relative;
+}
+.wrapper div:nth-child(1){
+   
+    background-color: black;
+}
+.wrapper div:nth-child(2){
+  
+    background-color: red;
+}
+.wrapper div:nth-child(3){
+  
+    background-color: yellow;
+}
